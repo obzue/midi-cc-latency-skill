@@ -1,6 +1,6 @@
 # MIDI CC and driver latency
 
-Agent skill for ObzueAI and Warrior Lab.
+Agent skill for ObzueAI Group and WarriorLabs Machines.
 
 It covers MIDI learn (absolute, three relative encoder curves, soft takeover, buttons) and how to read a real audio-driver buffer instead of treating scheduler look-ahead as latency.
 
